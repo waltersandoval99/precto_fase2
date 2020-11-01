@@ -1,0 +1,4 @@
+yes si afirmacion
+hello hola saludo
+black negro color
+red rojo color
